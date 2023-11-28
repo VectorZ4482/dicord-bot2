@@ -1,3 +1,3 @@
 DISCORD_TOKEN =(
-    "MTEwOTg0MDI1MDM1Nzk2MDcyNQ.GO9eL-.mQMcMGP7UnAw3wBVIsiwy7TLT8_sjnXvjSBzuE"
+    "token"
 )
